@@ -2,7 +2,7 @@
 document.write(`
 <html> 
   <head>
-  <script src="https://wadeenghoiwa.github.io/header.js"></script> 
+  <script src="https://icwcsuen2010.github.io/TM1109S1.github.io/header.js"></script> 
 
     <h1>Successful!</h1>
     <a>MAC address saved! Power cycle or reset the board to begin using the new MAC address.</a>
