@@ -22,10 +22,10 @@
 		var btnSetMac = document.getElementById("btnSaveMAC");
 
 		// MACHINE INFORMATION
-		var machineMacAddress = document.getElementById("txtMAC2");
-		var machineVolume = document.getElementById("txtVolume2");
-		var machineBase = document.getElementById("txtBase2");
-		var machineStations = document.getElementById("txtStation2");
+		var machineMacAddress = document.getElementById("machineMacAddress");
+		var machineVolume = document.getElementById("machineVolume");
+		var machineBase = document.getElementById("machineBase");
+		var machineStations = document.getElementById("machineStation");
 
 		// load machine mac
 		function loadMachineMacAddress(){
