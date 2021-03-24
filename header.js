@@ -1,8 +1,8 @@
 
 document.write(`
 	<title>2021 S1 Internet Radio App</title>
-	<link href="https://wadeenghoiwa.github.io/mchp.css" rel="stylesheet" type="text/css" />
-	<script src="https://wadeenghoiwa.github.io/script.js"></script>
+	<link href="https://icwcsuen2010.github.io/TM1109S1.github.io/mchp.css" rel="stylesheet" type="text/css" />
+	<script src="https://icwcsuen2010.github.io/TM1109S1.github.io/script.js"></script>
 	<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
 	<meta http-equiv="Pragma" content="no-cache" />
 	<meta http-equiv="Expires" content="0" />
